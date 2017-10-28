@@ -1,0 +1,48 @@
+#controls {
+    width:100px;
+    position:fixed;
+    left:0;
+    right:0;
+    bottom:-117px;
+    margin:auto;
+}
+
+.textInput {
+    width:100%;
+}
+
+#descInput {
+    height:50px;
+}
+
+#display {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100vw;
+}
+
+#background {
+    position:relative;
+    height:300px;
+    width:100%;
+    color:white;
+}
+
+#bgImg {
+    height:100%;
+    width:100%;
+}
+
+#title {
+    position:absolute;
+    left:10%;
+    top:10%;
+    border-bottom:solid grey;
+}
+
+#description {
+    position:absolute;
+    left:10%;
+    top:20%;
+}
